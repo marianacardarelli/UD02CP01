@@ -1,0 +1,3 @@
+Observamos que las letras se imprimen en distinto orden,
+esto sucede porque los hilos no están sincronizados
+ y se mezcla el acceso a las variables compartidas
